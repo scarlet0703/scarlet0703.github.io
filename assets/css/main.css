@@ -425,7 +425,7 @@ img {
 #nav {
   background: url(../images/background.jpeg);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
 }
 
 a {
